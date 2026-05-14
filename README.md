@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hey, I'm Josiah.
 
-<!--
-**JosiahYule/JosiahYule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Marketing professional who builds things.
 
-Here are some ideas to get you started:
+I work across digital marketing, web development, and custom tooling for a group of recruitment agencies in Atlantic Canada. My day-to-day sits somewhere between strategy and execution — writing copy, building job boards, wiring up APIs, and shipping dashboards that replace manual processes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working toward full stack freelance.
+
+**What I work with**
+- HTML, CSS, JavaScript
+- React, Supabase
+- Python (scripting and automation)
+- Google Apps Script, Chart.js
+- Squarespace (custom code, API integrations)
+
+**Links**
+- Portfolio: josiahyule.ca
+- LinkedIn: linkedin.com/in/josiahyule
